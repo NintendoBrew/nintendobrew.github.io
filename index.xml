@@ -1,19 +1,19 @@
 
 <html>
   <title>
-    Nintendo Homebrew.github.io
-    <title>
-
-      <body>
-      <h1>still in development come back later<h1>
-      <body>
-
-        <style>
-          body {
-            background-color:LIGHTSALMON;
-            color:#FFA07A;
-            text-align:center;
-          }
-          <style>
-
-      <html>
+    NintendoBrew site
+  </title>
+  
+  <body>
+    <h1>still in development come back later</h1>
+  </body>
+  
+  <style>
+    body {
+      background-color:green;
+      color:#fff;
+      text-align:center;
+    }
+  </style>
+  
+</html>
