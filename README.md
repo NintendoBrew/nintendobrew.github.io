@@ -1,2 +1,2 @@
 # NintendoBrew-site
- https://nintendobrew.github.io/
+ https://nintendobrew.com
